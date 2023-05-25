@@ -1,2 +1,2 @@
-# guess_a_number_by_lilly
+# guess-a-number by lilly
  Simple console game "Guess a Number"
